@@ -1,7 +1,7 @@
 # Product Manager API
 
 ## Descrição
-Esta API gerencia produtos e categorias de um sistema. Ela foi construída com Spring Boot e oferece endpoints para criação, atualização, exclusão e listagem de produtos e categorias.
+Esta API gerencia produtos e categorias de um sistema de e-commerce. Ela foi construída com Spring Boot e oferece endpoints para criação, atualização, exclusão e listagem de produtos e categorias.
 
 ## Endpoints
 ### Categoria
@@ -29,3 +29,8 @@ Esta API gerencia produtos e categorias de um sistema. Ela foi construída com S
 ### 3. Acessando o Swagger UI
 - Após executar a aplicação, você pode acessar a documentação interativa pelo Swagger e testar os endpoints da API:
 	http://localhost:8080/swagger-ui.html
+
+
+
+	
+
