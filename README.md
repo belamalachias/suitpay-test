@@ -1,7 +1,7 @@
 # Product Manager API
 
 ## Descrição
-Esta API gerencia produtos e categorias de um sistema de e-commerce. Ela foi construída com Spring Boot e oferece endpoints para criação, atualização, exclusão e listagem de produtos e categorias.
+Esta API gerencia produtos e categorias de um sistema. Ela foi construída com Spring Boot e oferece endpoints para criação, atualização, exclusão e listagem de produtos e categorias.
 
 ## Endpoints
 ### Categoria
